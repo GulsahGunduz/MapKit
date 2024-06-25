@@ -1,9 +1,4 @@
-//
-//  MapVC.swift
-//  TravelBook
-//
-//  Created by Gülşah Gündüz on 9.03.2024.
-//
+
 
 import UIKit
 import MapKit
